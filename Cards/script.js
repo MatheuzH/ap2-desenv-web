@@ -22,7 +22,7 @@ function exebir_jogadores(){
 function voltar(){
     document.cookie = ''
 
-    window.location.href = '../../';
+    window.location.href = '../ap2-desenv-web/';
 
 }
 
