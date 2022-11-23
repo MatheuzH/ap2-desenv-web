@@ -9,7 +9,7 @@ function Mostrar_cards(){
                 <h2>${lista_jogadores[i]["nome"]}</h2>
                 <p>${lista_jogadores[i]["posicao"]}</p>
                 <button class="button" onclick='Cookie(${JSON.stringify(lista_jogadores[i])})'>
-                    Sobre o jogador
+                    Sobre
                 </button>
             </div>
         `;
